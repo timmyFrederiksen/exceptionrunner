@@ -1,0 +1,9 @@
+2021-04-01 18:14:44 INFO edu.baylor.ecs.si.Timer <clinit> starting the app
+2021-04-01 18:14:44 INFO edu.baylor.ecs.si.Timer timeMe Calling took: 1617318884124
+2021-04-01 18:14:44 INFO edu.baylor.ecs.si.Timer timeMe * should take: 0
+2021-04-01 18:14:44 FINER org.junit.jupiter.engine.execution.ConditionEvaluator logResult Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+2021-04-01 18:14:44 INFO edu.baylor.ecs.si.Timer timeMe Calling took: 1617318884135
+2021-04-01 18:14:44 INFO edu.baylor.ecs.si.Timer timeMe * should take: -1
+2021-04-01 18:14:44 FINER org.junit.jupiter.engine.execution.ConditionEvaluator logResult Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+2021-04-01 18:14:45 INFO edu.baylor.ecs.si.Timer timeMe Calling took: 1617318885141
+2021-04-01 18:14:45 INFO edu.baylor.ecs.si.Timer timeMe * should take: 1000
